@@ -1,0 +1,6 @@
+# E16 continuation: resume the E16 policy at 250,003,456 environment steps and train to 275,005,440
+# with fresh replay. Only change vs. the base configuration:
+curriculum:
+  stages:
+    objective_weights:
+      object_keypoints: 40   # was 20

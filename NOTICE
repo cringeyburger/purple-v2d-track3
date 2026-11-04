@@ -1,0 +1,6 @@
+Team Purple — NVIDIA V2D Challenge, Track 3.
+
+Project code is licensed under Apache-2.0 (see LICENSE). The FlashCHORD runtime under
+runtime/ keeps its original license (runtime/upstream/LICENSE) and file headers.
+Checkpoints, scene inputs and generated submission files are distributed in the
+verification container, not in this repository.
